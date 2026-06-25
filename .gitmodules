@@ -8,3 +8,6 @@
 [submodule "ExtremeCI"]
 	path = ExtremeCI
 	url = https://github.com/opasche/extremeci
+[submodule "ExtremeConformal"]
+	path = ExtremeConformal
+	url = https://github.com/opasche/extremeconformal
